@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-11-06T09:05:14.219134+00:00",
+  "generated_at_utc": "2026-11-06T17:54:55.563887+00:00",
   "source": "Twelve Data; daily bars filtered to completed prior UTC dates; not live quotes",
   "dynamic_pool_size": 25,
-  "dynamic_scanned_this_run": 8,
+  "dynamic_scanned_this_run": 0,
   "dynamic_method": "Technical screening only; no automatic news or fundamental verification",
   "closed_bar_policy": "Exclude current UTC date (conservative for US-listed symbols)",
   "errors": [],
@@ -218,7 +218,7 @@
       "region": "Europa / ADR EEUU",
       "theme": "Energía",
       "analyzed_at_utc": "2026-11-06T09:05:14.219085+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -240,7 +240,7 @@
       "region": "Europa / ADR EEUU",
       "theme": "Salud",
       "analyzed_at_utc": "2026-11-06T09:05:14.219097+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -262,7 +262,7 @@
       "region": "Europa / ADR EEUU",
       "theme": "Equipamiento semiconductores",
       "analyzed_at_utc": "2026-11-06T09:05:14.219101+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -284,7 +284,7 @@
       "region": "Europa / ADR EEUU",
       "theme": "Software empresarial",
       "analyzed_at_utc": "2026-11-06T09:05:14.219103+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -306,7 +306,7 @@
       "region": "Japón / ADR EEUU",
       "theme": "Automoción",
       "analyzed_at_utc": "2026-11-06T09:05:14.219105+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -328,7 +328,7 @@
       "region": "Japón / ADR EEUU",
       "theme": "Electrónica / entretenimiento",
       "analyzed_at_utc": "2026-11-06T09:05:14.219107+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -350,7 +350,7 @@
       "region": "India / ADR EEUU",
       "theme": "Banca",
       "analyzed_at_utc": "2026-11-06T09:05:14.219110+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -372,7 +372,7 @@
       "region": "Brasil / ADR EEUU",
       "theme": "Energía",
       "analyzed_at_utc": "2026-11-06T09:05:14.219112+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     }
   ]
