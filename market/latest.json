@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-11-11T09:04:39.274431+00:00",
+  "generated_at_utc": "2026-11-11T18:00:53.885196+00:00",
   "source": "Twelve Data; daily bars filtered to completed prior UTC dates; not live quotes",
   "dynamic_pool_size": 25,
-  "dynamic_scanned_this_run": 8,
+  "dynamic_scanned_this_run": 0,
   "dynamic_method": "Technical screening only; no automatic news or fundamental verification",
   "closed_bar_policy": "Exclude current UTC date (conservative for US-listed symbols)",
   "errors": [],
@@ -200,28 +200,6 @@
       "bar_age_days": 1
     },
     {
-      "symbol": "RIO",
-      "name": "Rio Tinto ADR",
-      "market": "US",
-      "currency": "USD",
-      "last_bar_date": "2026-11-10",
-      "close": 84.54,
-      "sma20": 85.559,
-      "sma50": 92.4746,
-      "rsi14": 44.44,
-      "return20_pct": -9.16,
-      "return60_pct": -13.03,
-      "signal": "RIESGO",
-      "technical_score": 0,
-      "dynamic_qualified": false,
-      "role": "CANDIDATO_DINAMICO",
-      "region": "Europa / ADR EEUU",
-      "theme": "Minería",
-      "analyzed_at_utc": "2026-11-11T09:04:39.274389+00:00",
-      "result_cached": false,
-      "bar_age_days": 1
-    },
-    {
       "symbol": "SHEL",
       "name": "Shell ADR",
       "market": "US",
@@ -240,7 +218,7 @@
       "region": "Europa / ADR EEUU",
       "theme": "Energía",
       "analyzed_at_utc": "2026-11-11T09:04:39.274399+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -262,7 +240,7 @@
       "region": "Europa / ADR EEUU",
       "theme": "Salud",
       "analyzed_at_utc": "2026-11-11T09:04:39.274403+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -284,7 +262,7 @@
       "region": "Europa / ADR EEUU",
       "theme": "Equipamiento semiconductores",
       "analyzed_at_utc": "2026-11-11T09:04:39.274407+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -306,7 +284,7 @@
       "region": "Europa / ADR EEUU",
       "theme": "Software empresarial",
       "analyzed_at_utc": "2026-11-11T09:04:39.274409+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -328,7 +306,7 @@
       "region": "Japón / ADR EEUU",
       "theme": "Automoción",
       "analyzed_at_utc": "2026-11-11T09:04:39.274412+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -350,7 +328,7 @@
       "region": "Japón / ADR EEUU",
       "theme": "Electrónica / entretenimiento",
       "analyzed_at_utc": "2026-11-11T09:04:39.274414+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -372,7 +350,7 @@
       "region": "India / ADR EEUU",
       "theme": "Banca",
       "analyzed_at_utc": "2026-11-11T09:04:39.274415+00:00",
-      "result_cached": false,
+      "result_cached": true,
       "bar_age_days": 1
     },
     {
@@ -746,6 +724,28 @@
       "region": "Estados Unidos",
       "theme": "Oro / minería",
       "analyzed_at_utc": "2026-11-10T09:01:17.570421+00:00",
+      "result_cached": true,
+      "bar_age_days": 1
+    },
+    {
+      "symbol": "RIO",
+      "name": "Rio Tinto ADR",
+      "market": "US",
+      "currency": "USD",
+      "last_bar_date": "2026-11-10",
+      "close": 84.54,
+      "sma20": 85.559,
+      "sma50": 92.4746,
+      "rsi14": 44.44,
+      "return20_pct": -9.16,
+      "return60_pct": -13.03,
+      "signal": "RIESGO",
+      "technical_score": 0,
+      "dynamic_qualified": false,
+      "role": "CANDIDATO_DINAMICO",
+      "region": "Europa / ADR EEUU",
+      "theme": "Minería",
+      "analyzed_at_utc": "2026-11-11T09:04:39.274389+00:00",
       "result_cached": true,
       "bar_age_days": 1
     }
